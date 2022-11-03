@@ -6,4 +6,4 @@
 3. ```node index.js```
 
 ## explicativo
-vá no seu navegador e digir localhost:8080 e pronto tera o qr-code.
+vá no seu navegador e digite localhost:8080 e pronto tera o qr-code.
