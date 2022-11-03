@@ -1,5 +1,7 @@
 # qr-deploy
 
+Qr-deploy trabalha com a api baileys para abrir o qrcode em localhost e conectar com o whatsapp.web utilizando o basico da baileys.
+
 ## instalar em localhost
 1. ```npm install```
 2. ```npm install express```
